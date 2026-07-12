@@ -12,6 +12,8 @@
 [![gRPC](https://img.shields.io/badge/gRPC-Services-244C5A?logo=google&logoColor=white)](https://grpc.io/)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-Events-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
+[Featured: Flephant](https://github.com/Jang1J/Flephant#readme) · [All repositories](https://github.com/Jang1J?tab=repositories)
+
 </div>
 
 ## About
@@ -22,16 +24,6 @@
 - Financial ML, ranking, reinforcement learning, and risk controls
 - Reproducible evaluation, contract testing, and paper-safe operations
 - Python 중심의 AI와 Java/TypeScript 기반 서비스 경계 통합
-
-## Toolbox
-
-| Layer | Stack |
-|---|---|
-| **AI / ML** | Python, PyTorch, LightGBM, scikit-learn, reinforcement learning |
-| **Agent Systems** | Multi-agent orchestration, RAG, LLM routing, typed contracts |
-| **Services** | gRPC, Kafka, REST, STOMP, Spring Boot |
-| **Frontend** | TypeScript, React, Vite |
-| **Reliability** | pytest, replay validation, PIT-safety, audit logging, circuit breaker |
 
 ## Featured Project
 
@@ -48,6 +40,16 @@ KOSPI 30종목을 1분 주기로 분석하는 멀티에이전트 Decision OS입�
 | Result | Capstone project **A+**, 2,221 tests collected |
 
 [프로젝트 자세히 보기 →](https://github.com/Jang1J/Flephant#readme)
+
+## Toolbox
+
+| Layer | Stack |
+|---|---|
+| **AI / ML** | Python, PyTorch, LightGBM, scikit-learn, reinforcement learning |
+| **Agent Systems** | Multi-agent orchestration, RAG, LLM routing, typed contracts |
+| **Services** | gRPC, Kafka, REST, STOMP, Spring Boot |
+| **Frontend** | TypeScript, React, Vite |
+| **Reliability** | pytest, replay validation, PIT-safety, audit logging, circuit breaker |
 
 ## More Work
 
