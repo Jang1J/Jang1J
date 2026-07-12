@@ -23,6 +23,16 @@
 - Reproducible evaluation, contract testing, and paper-safe operations
 - Python 중심의 AI와 Java/TypeScript 기반 서비스 경계 통합
 
+## Toolbox
+
+| Layer | Stack |
+|---|---|
+| **AI / ML** | Python, PyTorch, LightGBM, scikit-learn, reinforcement learning |
+| **Agent Systems** | Multi-agent orchestration, RAG, LLM routing, typed contracts |
+| **Services** | gRPC, Kafka, REST, STOMP, Spring Boot |
+| **Frontend** | TypeScript, React, Vite |
+| **Reliability** | pytest, replay validation, PIT-safety, audit logging, circuit breaker |
+
 ## Featured Project
 
 ### [Flephant](https://github.com/Jang1J/Flephant)
@@ -48,6 +58,24 @@ KOSPI 30종목을 1분 주기로 분석하는 멀티에이전트 Decision OS입�
 | [Food Safety Mailer](https://github.com/Jang1J/food-safety-mailer) | 글로벌 식품 안전정보 자동 수집 및 이메일 전달 |
 | [Nuclear AI NAS](https://github.com/Jang1J/26_nuclear_ai_NAS) | 원전 사고 진단을 위한 AI 모델 탐색 |
 
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jang1J&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jang1J&theme=github">
+  <img alt="Jang1J GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jang1J&theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jang1J&bg_color=0d1117&color=c9d1d9&line=2f81f7&point=58a6ff&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jang1J&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area=true&hide_border=true">
+  <img alt="Jang1J contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jang1J&bg_color=ffffff&color=24292f&line=0969da&point=0550ae&area=true&hide_border=true">
+</picture>
+
+</div>
+
 ## Engineering Principles
 
 ```text
@@ -56,4 +84,3 @@ evidence before confidence
 fail closed on unsafe transitions
 make experiments reproducible
 ```
-
